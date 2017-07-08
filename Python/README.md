@@ -16,12 +16,12 @@
  
  - Teammates is in my natural language labs at kookmin university, So I hope as follows  :
  
-  - I get an new idea to make it cool from teammate 
+     - I get an new idea to make it cool from teammate 
   
-  - This code helps my teammate to do programming and gives my teammate an idea associated with their project
+     - This code helps my teammate to do programming and gives my teammate an idea associated with their project
  
  - Someone who do natural language processing, So I hope as follows :
  
-  - I get an idea from their perspective that they see this code, 
+     - I get an idea from their perspective that they see this code, 
   
-  - This code helps them to do project and get an idea. 
+     - This code helps them to do project and get an idea. 
