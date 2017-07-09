@@ -2,7 +2,7 @@
 
  I tested the tutorial of argparse module in python.
  
- So I put in here the sample code. 
+ So I arrange the test code in here for later. 
  
  # Reference
  
