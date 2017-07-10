@@ -2,6 +2,8 @@
 
  This program is couting n gram of syllable in a file line by line.
  
+# Usage 
+ 
  Let's see how to use it. If you want to use it, type in like this :
  
  > $ python3 the_name_of_program -h
@@ -22,6 +24,8 @@ optional arguments:
                         N gram you want to make
 ```
  
+# Develop Environment
+
  - My environment is , when I developed this, like this :
 
     - OS : Linux 4.8.0-58-generic #63~16.04.1-Ubuntu 
@@ -29,6 +33,10 @@ optional arguments:
     - python : 3.5
  
     - IDE : spyder3
+ 
+# Way to work 
+
+ let's see how for This to work 
  
  i.e. If you have a file like this :
  
