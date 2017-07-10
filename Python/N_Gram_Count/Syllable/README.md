@@ -26,6 +26,16 @@ optional arguments:
                         N gram you want to make
 ```
  
+If you wan to type command like this :
+
+> $ python3 count_n_gram_ver_0.0.py -t 
+
+Just You must be in the location where program recognize the path of ./Example_file/RAW2169-CORE-test_utf-8.TXT 
+
+For example, If you did git clone, you can run the above command under (some_other_path)/Natural_Language_Processing_Lab/Python/N_Gram_Count/Syllable/ 
+ 
+(some_other_path) depends on your system.  
+ 
 # Develop Environment
 
  - My environment is , when I developed this, like this :
