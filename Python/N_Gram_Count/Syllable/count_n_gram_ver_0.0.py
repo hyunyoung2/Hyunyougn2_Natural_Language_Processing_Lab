@@ -169,14 +169,9 @@ def makePairsOfTupleFromDict(final_dict) :
     return new_sequence_of_list
     
 def test(n_gram_from_commandLine) :
-    test_file_path = []    
+    test_file_path = ["./Example_file/RAW2169-CORE-test_utf-8.TXT"]    
     
     test = list ()
-    
-    if test_file_path == None :
-        print ("set up path of yourtest file in variable, test_file_path")
-        print ("till doing that, test is doesn't work")
-        return 
     
     print ("\nthis code is implemented with three lines in a file stored internlly")    
     
@@ -277,7 +272,6 @@ def main (a_list_file_path, n_gram, output_path) :
         print ("The total process is completely done\n")    
 
 if __name__ == "__main__" :
-    #test(2)
     parser = argparse.ArgumentParser(description="this program count N gram in syllable unit in a file.")
     group = parser.add_mutually_exclusive_group()
     group.add_argument("-t", "--test", action="store_true", help="implement test code")
@@ -295,7 +289,7 @@ if __name__ == "__main__" :
         if args.ngram and args.output: 
             main(args.file, args.ngram, args.output)
         elif args.ngram : 
-            main(args.file, args.ngram)
+            main(args.file, args.ngram, None)
         else : 
             print ("enter n gram you want to make again")
     else :
