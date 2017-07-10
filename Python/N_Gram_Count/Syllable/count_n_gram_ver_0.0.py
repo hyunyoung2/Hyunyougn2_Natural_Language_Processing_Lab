@@ -256,14 +256,14 @@ def main (a_list_file_path, n_gram, output_path) :
     
     print ("\nchang the type from dict to a list of pairs of tuple")
     temp_tuple = makePairsOfTupleFromDict(dict_of_counting)
-    print ("the type of a list incluing pairs of tuple :", type(temp_tuple), "the number of a list incluing pairs of tuple :", len(temp_tuple))
+    print ("the type of a list incluing pairs of tuple :", type(temp_tuple), "the number of a list including pairs of tuple :", len(temp_tuple))
     print (temp_tuple[0:10])
     
     print ("\nsorting...")
     temp_tuple.sort()
     
     print ("sorting is done")
-    print ("the number of a list incluing pairs of tuple :", len(temp_tuple))
+    print ("the number of a list including pairs of tuple :", len(temp_tuple))
     print (temp_tuple[0:10])
     
     if output_path != None :
@@ -299,4 +299,4 @@ if __name__ == "__main__" :
         else : 
             print ("enter n gram you want to make again")
     else :
-        print ("you're missing some options, So check how to use this tool one more time......")
+        print ("you're missing some options, So look at how to use this tool one more time......")
