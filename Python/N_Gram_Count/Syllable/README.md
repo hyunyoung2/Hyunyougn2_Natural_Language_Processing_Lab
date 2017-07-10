@@ -9,7 +9,6 @@
  > $ python3 the_name_of_program -h
  
 ```shell
-# hyunyoung2 @ hyunyoung2-desktop in ~/git-hub/Natural_Language_Processing_Lab/Python/N_Gram_Count/Syllable on git:master o [20:53:42] 
 $ python3 count_n_gram_ver_0.0.py -h
 usage: count_n_gram_ver_0.0.py [-h] [-t | -f FILE [FILE ...]] [-o OUTPUT]
                                [-n {1,2,3,4,5}]
