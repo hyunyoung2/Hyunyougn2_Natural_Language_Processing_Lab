@@ -55,7 +55,7 @@ def writeAFlieWithData(a_file_path, pairs_of_sequence_data) :
         data += "\n"
         f.write(data)
         
-    f.close
+    f.close()
     
     if flag == True :
         print ("\nThe location of your output is under", cwd+"/")
