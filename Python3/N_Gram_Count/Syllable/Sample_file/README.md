@@ -1,4 +1,4 @@
-# Example File
+# Sample File
 
  This file is for test of this progarm count_n_gram_ver_0.0.py
  
