@@ -1,6 +1,8 @@
 # If you start the python setting 
 # help(os-python keyword)
 
+# -- the version of python : 3.5 --
+
 # In order to check the version of python 
 import sys
 print ("python :" , sys.version)
