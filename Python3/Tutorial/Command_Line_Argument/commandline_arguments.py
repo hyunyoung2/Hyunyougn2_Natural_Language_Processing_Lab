@@ -9,6 +9,7 @@ Created on Sun Jul  9 15:28:41 2017
 
 # for sys.argv
 import sys
+print ("python : ", sys.version)
 
 # To make usage associated with dealing with arguments of command-line
 import argparse
