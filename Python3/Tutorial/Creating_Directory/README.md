@@ -1,4 +1,4 @@
-# HOW TO Check Whether The Directory already Exist or not
+# HOW TO : Check Whether The Directory already Exist or not
 
  This tutorial is just checking how to create some directory and checking whether those exist or not
  
