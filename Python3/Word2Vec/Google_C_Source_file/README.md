@@ -1,4 +1,4 @@
-# Google C source file, Word2vec
+# Google C source file, Word2Vec
 
 This file is made in jupyter notebook. 
 
