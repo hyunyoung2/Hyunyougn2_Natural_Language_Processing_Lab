@@ -1,6 +1,6 @@
 # Google C source file, Word2Vec
 
-**This file(How to use Google's Word2Vec for spam filter of E-mail.ipynb)** explains to you how to use C Source file of google's Word2Vec from compile to usage of simple example.
+**This file(How to use Google's Word2Vec C source file.ipynb)** explains to you how to use C Source file of google's Word2Vec from compile to usage of simple example.
 
 if you don't know how to download C source file of google, just download the file,**source-archive.zip**, in this repository 
 
