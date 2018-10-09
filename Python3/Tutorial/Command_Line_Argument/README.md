@@ -41,3 +41,7 @@ if __name__ == "__main__" :
  # Reference
  
   - [the usage of argparse moduel](https://docs.python.org/2/howto/argparse.html#argparse-tutorial)
+
+  - [argparse – Command line option and argument parsing](https://pymotw.com/2/argparse/)
+  
+  - [argparse – Command line option and argument parsing_1](https://bip.weizmann.ac.il/course/python/PyMOTW/PyMOTW/docs/argparse/index.html)
